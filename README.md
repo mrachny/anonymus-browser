@@ -1,4 +1,4 @@
-This solution assumes docker is isntalled and running: https://app.docker.com/signup
+This script assumes docker is isntalled and running: https://app.docker.com/signup
 
 Select right click->Run with PowerShell
 This will check if any dependencies are missing and deploy it.
